@@ -1,4 +1,4 @@
-package com.makersacademy.acebook;
+package com.makersacademy.chitter_challenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

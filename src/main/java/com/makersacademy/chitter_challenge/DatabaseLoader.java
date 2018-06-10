@@ -1,8 +1,8 @@
-package com.makersacademy.acebook;
+package com.makersacademy.chitter_challenge;
 
 
-import com.makersacademy.acebook.model.Post;
-import com.makersacademy.acebook.repository.PostRepository;
+import com.makersacademy.chitter_challenge.model.Post;
+import com.makersacademy.chitter_challenge.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

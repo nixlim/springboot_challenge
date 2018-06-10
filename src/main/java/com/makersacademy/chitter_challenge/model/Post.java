@@ -1,4 +1,4 @@
-package com.makersacademy.acebook.model;
+package com.makersacademy.chitter_challenge.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
