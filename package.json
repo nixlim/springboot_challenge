@@ -1,7 +1,7 @@
 {
-  "name": "acebook-template",
-  "version": "1.0.0",
-  "description": "A template project for spring boot/react.js",
+  "name": "chitter-challenge",
+  "version": "0.0.1",
+  "description": "Redoing chitter-challenge in spring boot/react.js",
   "main": "index.js",
   "dependencies": {
     "react": "^16.4.0",
